@@ -20,7 +20,7 @@ Predicting payment_date on a dataset of 50000 rows using Linear Regression Algor
 - extracting date, month, year from date-type columns in int format
 
 ## Feature selection
-- plotting heat map to correlation of features
+- plotting heat map to check correlation of features
 
 ## Data Modelling & Model Evaluation
 - using Linear Regression, Tree based and XGBoost to fit the train set
